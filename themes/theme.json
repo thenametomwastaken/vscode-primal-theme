@@ -31,7 +31,7 @@
         "dropdown.border": "#15232d",
         "dropdown.foreground": "#fff",
 
-        "editor.background": "#1d252c",
+        "editor.background": "#FAFBFC",
         "editor.foreground": "#d9d7ce",
         "editor.findMatchBackground": "#b7c5d380",
         "editor.findMatchHighlightBackground": "#b7c5d330",
